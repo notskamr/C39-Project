@@ -101,7 +101,7 @@ class Game{
                  }
                  
                   if (player.index !== null) {
-                     //fill code here, to destroy the objects.
+                     //fruits.destroy()
                   }
                 
 
