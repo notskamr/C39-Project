@@ -14,7 +14,7 @@ var player_img;
 
 
 function preload(){
-  back_img = loadImage("images/jungle.jpg");
+  back_img = loadImage("images/synth.jpg");
   player_img = loadImage("images/basket2.png");
   fruit1_img = loadImage("images/apple2.png");
   fruit2_img = loadImage("images/banana2.png");
